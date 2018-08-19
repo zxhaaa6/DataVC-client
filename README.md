@@ -1,4 +1,5 @@
-# ice-design-project-management
+# DataVC-client
+Client for Data View
 
 > 使用文档
 
@@ -17,7 +18,3 @@
 * 布局文件: `src/layouts`
 * 通用组件: `src/components`
 * 页面文件: `src/pages`
-
-效果图:
-
-![screenshot](https://img.alicdn.com/tfs/TB1PIDhpntYBeNjy1XdXXXXyVXa-2840-1596.png)
